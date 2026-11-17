@@ -10,7 +10,7 @@ High-contrast dark landing page crafted for AI startups, developer tools, and mo
 - **3-Column Bento Grid:** Live simulation states, telemetry readouts, and tabbed SDK snippets.
 - **Dynamic Pricing:** Monthly/Yearly toggle with automatic 20% discount calculation.
 
-👉 **[Live Preview]([YOUR_OBSIDIAN_NETLIFY_URL](https://custeredrew.gumroad.com/l/httpssingular-entremet-b10f29netlifyapp?_gl=1*1566dfj*_ga*MTE2MTYwODg1NS4xNzk0ODY2MzU5*_ga_6LJN6D94N6*czE3OTQ4NjYzNTkkbzEkZzEkdDE3OTQ4NzEwOTQkajU5JGwwJGgw))** | **[Download Template on Gumroad](https://custeredrew.gumroad.com)**
+👉 **[Live Preview](https://singular-entremet-b18f29.netlify.app)** | **[Download Template on Gumroad](https://custeredrew.gumroad.com)**
 
 ---
 
@@ -20,7 +20,7 @@ Ultra-clean editorial portfolio built for software engineers, product designers,
 - **Interactive Case Study Modals:** Click any project card for full breakdowns and metrics.
 - **One-Click Email Copy & Inquiry Form:** Built-in clipboard copy confirmation and working contact form.
 
-👉 **[Live Preview]([YOUR_CANVAS_NETLIFY_URL](https://luxury-taiyaki-2d1245.netlify.app))** | **[Get Canvas on Gumroad](https://custeredrew.gumroad.com)**
+👉 **[Live Preview](https://luxury-taiyaki-2d1245.netlify.app)** | **[Get Canvas on Gumroad](https://custeredrew.gumroad.com)**
 
 ---
 
@@ -28,3 +28,4 @@ Ultra-clean editorial portfolio built for software engineers, product designers,
 ```bash
 npm install
 npm run dev
+```
